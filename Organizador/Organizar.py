@@ -4,7 +4,7 @@ import re
 # ==========================
 # CONFIGURACIÓN
 # ==========================
-MES = 6
+MES = 7
 ANIO = 2026
 
 ARCHIVO_ENTRADA = "bitacoras.md"
